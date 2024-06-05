@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045382480142",
+    "project_id": "cartmanager-6cdce",
+    "storage_bucket": "cartmanager-6cdce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045382480142:android:24224d0f6103060cb1d75f",
+        "android_client_info": {
+          "package_name": "com.cartmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_hDwFTx32YJOXfEoSVJJUdNvv2sA-24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
